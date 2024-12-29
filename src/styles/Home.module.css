@@ -1,0 +1,19 @@
+.container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .chatContainer {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    text-align: right;
+  }
+  
+  .message {
+    color: blue;
+  }
+  
+  .response {
+    color: green;
+  }
